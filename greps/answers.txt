@@ -30,14 +30,17 @@ filescan_00.4 contains wartortle, squirtle, psyduck
 
 # Part 2
 ### a)
-
-
-
+14
 
 
 
 ### b)
+beedrill, charizard, and pikachu are the three biggest by line count
+grep "beed" filescan_00.1 | wc -l
+grep "izard" filescan_00.2 | wc -l
+grep "pika" filescan_00.3 | wc -l
 
+grep -c "beed" filescan_00.1 \\would count occurences of string which would also work\\
 
 
 
