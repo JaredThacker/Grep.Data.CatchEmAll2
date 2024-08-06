@@ -1,26 +1,32 @@
 # Part 1
 ### a)
+grep "beed" filescan_00.1
+grep "bulb" filescan_00.1
+grep "butt" filescan_00.1
+grep "blas" filescan_00.1
 
+grep "mander" filescan_00.2
+grep "meleon" filescan_00.2
+grep "izard" filescan_00.2
 
+grep "pika" filescan_00.3
+grep "meow" filescan_00.3
+grep "ivys" filescan_00.3
+grep "jigg" filescan_00.3
 
+grep "squi" filescan_00.4
+grep "wart" filescan_00.4
+grep "psyd" filescan_00.4
 
 ### b)
 
 
 
 ### c)
-
-
-
-
-
-
-
-
-
-
-
-
+filescan_00.1 contains beedrill, bulbasaur, butterfree, blastoise
+filescan_00.2 contains charmander, charmeleon, charizard
+filescan_00.3 contains pikachu, jigglypuff, meowth, ivysaur
+filescan_00.4 contains wartortle, squirtle, psyduck
 
 # Part 2
 ### a)
