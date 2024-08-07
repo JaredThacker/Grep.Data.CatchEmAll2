@@ -31,7 +31,7 @@ filescan_00.4 contains wartortle, squirtle, psyduck
 # Part 2
 ### a)
 14
-
+ls -l | grep "^-" | wc -l
 
 ### b)
 beedrill, charizard, and pikachu are the three biggest by line count
