@@ -27,7 +27,7 @@ grep "venu" filescan_00.4
 filescan_00.1 contains beedrill, bulbasaur, butterfree, blastoise
 filescan_00.2 contains charmander, charmeleon, charizard
 filescan_00.3 contains pikachu, jigglypuff, meowth, ivysaur
-filescan_00.4 contains wartortle, squirtle, psyduck
+filescan_00.4 contains wartortle, squirtle, psyduck, venusaur
 
 # Part 2
 ### a)
