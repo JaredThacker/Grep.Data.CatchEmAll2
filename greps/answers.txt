@@ -17,6 +17,7 @@ grep "jigg" filescan_00.3
 grep "squi" filescan_00.4
 grep "wart" filescan_00.4
 grep "psyd" filescan_00.4
+grep "venu" filescan_00.4
 
 ### b)
 
@@ -30,7 +31,7 @@ filescan_00.4 contains wartortle, squirtle, psyduck
 
 # Part 2
 ### a)
-14
+15
 ls -l | grep "^-" | wc -l
 
 ### b)
